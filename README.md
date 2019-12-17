@@ -1,6 +1,6 @@
 系统 要求：Ubuntu 14+ / Debian 7+ / CentOS 7 推荐使用Debian 9 免得出现各种BUG
 
-bash <(curl -s -L https://git.io/v2ray.sh)
+代码 bash <(curl -s -L https://git.io/v2ray.sh)
 
 安装好 curl 之后再使用脚本安装v2ray , 安装完成后输入v2ray status命令运行状态，两项显示正在运行才是正常的，如果有一项没有运行，请自己检查是否安装正确 ！
 
