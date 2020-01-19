@@ -4,6 +4,12 @@ V2ray IPV4安装代码： bash <(curl -s -L https://git.io/v2ray.sh)
 
 V2ray IPV6安装代码：bash <(curl -sL https://scaleya.netlify.com/share/v2ray233_6.sh)
 
+如果你在使用 Telegram 的话，你可以配置一个 Telegram 的专用代理，这样来，在某些情况下你就不需要再开一个代理软件了。
+
+输入 v2ray tg 即可配置 TG 专用代理
+
+配置 Telegram MTProto
+
 安装好 curl 之后再使用脚本安装v2ray , 安装完成后输入v2ray status命令运行状态，两项显示正在运行才是正常的，如果有一项没有运行，请自己检查是否安装正确 ！
 
 然后输入 v2ray restart 重启v2ray, 这时候如果连不上，过半个小时以后再重启一次v2ray
